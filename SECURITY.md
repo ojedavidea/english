@@ -4,8 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2020    | :white_check_mark: |
+| 2020    | :x:                |
 
 ## Reporting a Vulnerability
 
-please send reports and their materials to : <i>not applicable</i>
+not applicable
