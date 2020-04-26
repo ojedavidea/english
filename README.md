@@ -3,8 +3,8 @@ ENGLISCH LERNEN · LEARN ENGLISH · APRENDER INGLÉS · APPRENDRE L'ANGLAIS
 
 # Hello World
 https://youtu.be/x4rA869-3xc
-<br> Quiz : https://t.me/QuizBot?start=kuaWpGUU
-<br> GITit : https://github.com/ojedavidea/english/blob/master/README.md
+<br> 🎲 Quiz : https://t.me/QuizBot?start=kuaWpGUU
+<br> 🛠 GITit : https://github.com/ojedavidea/english/blob/master/README.md
 
 # Hello World Quiz
 
@@ -26,5 +26,5 @@ Transcript and links :
 <br> ℹ️ Hilfe · Help · Ayuda · Aide : @ojedavidea
 <br> https://t.me/ojedavidea
 
-<br> External sharing link :
+External sharing link :
 <br> https://t.me/QuizBot?start=kuaWpGUU
