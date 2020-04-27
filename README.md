@@ -1,12 +1,12 @@
 # English
 ENGLISCH LERNEN · LEARN ENGLISH · APRENDER INGLÉS · APPRENDRE L'ANGLAIS
 
-# Hello World
+# Hello World (YOUTUBE)
 https://youtu.be/x4rA869-3xc
 <br> 🎲 Quiz : https://t.me/QuizBot?start=kuaWpGUU
 <br> 🛠 GITit : https://github.com/ojedavidea/english/blob/master/README.md
 
-# Hello World Quiz
+# Hello World Quiz (TELEGRAM)
 
 ## Title :
 https://youtu.be/x4rA869-3xc
